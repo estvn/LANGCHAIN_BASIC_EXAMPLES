@@ -7,6 +7,7 @@
 # Configuración local de herramientas
 .obsidian/
 .claude/
+.atl/
 
 # Básicos de Python / Jupyter
 __pycache__/
